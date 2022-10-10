@@ -5,7 +5,7 @@ title = "Learn how to design large-scale systems"
 # The homepage contents
 [extra]
 lead = 'In addition to coding interviews, system design is a required component of the technical interview process at many tech companies.'
-url = "/docs/ide-setup/introduction/"
+url = "/docs/system-design/performance-vs-scalability/"
 url_button = "Get started"
 repo_version =  "Github 1.0.17"
 repo_license = "Open-source MIT License."
@@ -15,7 +15,7 @@ repo_url = "https://github.com/purton-tech/rust-on-nails"
 [[extra.menu.main]]
 name = "Docs"
 section = "docs"
-url = "/docs/ide-setup/introduction/"
+url = "/docs/system-design/performance-vs-scalability/"
 weight = 10
 
 [[extra.list]]
